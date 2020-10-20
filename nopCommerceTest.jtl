@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603161323992,1996,Home Page,200,OK,Thread Group 1-1,text,true,,6849,344,1,1,https://demo.nopcommerce.com/,1993,0,565
+1603161325992,1193,Search Page,200,OK,Thread Group 1-1,text,true,,6345,404,1,1,https://demo.nopcommerce.com/search?q=nokia+lumia,1192,0,0
+1603161327186,1493,Product Page,200,OK,Thread Group 1-1,text,true,,11083,420,1,1,https://demo.nopcommerce.com/nokia-lumia-1020,1493,0,0
+1603161328680,412,Cart Page,200,OK,Thread Group 1-1,text,true,,4856,404,1,1,https://demo.nopcommerce.com/cart,412,0,0
